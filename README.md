@@ -43,8 +43,8 @@
 
 ###
 
-- 🏋️‍♂️ [Fitness Equipment Rental Management System](https://github.com/SamuellAguiar/Trab_Engenharia_Sof_II)  
-  A project developed as part of the Software Engineering II course. This system allows users to rent fitness equipment with personalized plans, manage orders and contracts, and includes payment integration.
+- 🌐 [My Portfolio](https://samuellaguiar.vercel.app/)  
+  Personal website designed to showcase my projects, experiences, and skills. Features a responsive layout, GitHub integration, and a contact section to connect with potential collaborators and employers.
 
 - 🍕 [Custom Pizza Order System](https://github.com/SamuellAguiar/Trabalho_ES_I)  
   A web application where users can create and customize their pizzas in real-time, view pricing dynamically, and manage their cart. It also features an admin dashboard for managing orders, ingredients, users, and generating detailed reports.
