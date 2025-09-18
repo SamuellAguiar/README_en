@@ -27,6 +27,4 @@
 
 *"Learning is conquering something that will always be yours."*
 
----
-
 [![Versão em Português](https://img.shields.io/badge/🌐-Leia%20em%20Português-blue)](https://github.com/SamuellAguiar/SamuellAguiar/tree/main)
