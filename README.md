@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Jupyter-F3F3F3?logo=jupyter&logoColor=Ffa500"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
 
-#### ⚒️ Outros
+#### ⚒️ Others
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 ---
 
