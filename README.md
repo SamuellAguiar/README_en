@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samuell!
+## 👋 Hi, I'm Samuell!
 
 - **Information Systems** student at **UFOP**  
 - Passionate about technology, continuous learning, and building practical solutions  
@@ -6,8 +6,7 @@
 
 ---
 
-## 🔧 Technologies 
-### 🔧 Tecnologias 
+### 🔧 Technologies 
 
 #### 💻 Front End
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
@@ -34,7 +33,7 @@
 
 ---
 
-## 🌍 Where to find me
+### 🌍 Where to find me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/samuell-aguiar/)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/samuell.ag/)  [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox&logoColor=fff)](https://samuellaguiar.vercel.app/)  
 
 ---
