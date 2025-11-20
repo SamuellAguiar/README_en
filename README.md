@@ -10,6 +10,14 @@
 
 ---
 
+### ✏️ Studing
+
+* I am currently learning:
+
+ [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)   [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+
+---
+
 ### 🔧 Technologies 
 
 #### 🎨 Front End
